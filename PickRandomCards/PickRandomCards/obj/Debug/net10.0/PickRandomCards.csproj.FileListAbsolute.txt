@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\bin\Debug\net10.0\PickRandomCards.exe
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\bin\Debug\net10.0\PickRandomCards.deps.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\bin\Debug\net10.0\PickRandomCards.runtimeconfig.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\bin\Debug\net10.0\PickRandomCards.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\bin\Debug\net10.0\PickRandomCards.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.sourcelink.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\refint\PickRandomCards.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\PickRandomCards.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\PickRandomCards\PickRandomCards\obj\Debug\net10.0\ref\PickRandomCards.dll
