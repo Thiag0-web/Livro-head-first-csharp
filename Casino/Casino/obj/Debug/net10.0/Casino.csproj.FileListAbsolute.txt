@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\bin\Debug\net10.0\Casino.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\bin\Debug\net10.0\Casino.deps.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\bin\Debug\net10.0\Casino.runtimeconfig.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\bin\Debug\net10.0\Casino.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\bin\Debug\net10.0\Casino.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.sourcelink.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\refint\Casino.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\Casino.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\Casino\Casino\obj\Debug\net10.0\ref\Casino.dll
