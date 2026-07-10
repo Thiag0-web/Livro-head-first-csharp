@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coercao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0fe52d21608dad6749c731b9d45d72c7ff4e36a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80ae2d4bbd0d97dda3bd58c0d9e42cdb68e16372")]
 [assembly: System.Reflection.AssemblyProductAttribute("coercao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coercao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

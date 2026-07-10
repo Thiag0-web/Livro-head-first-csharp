@@ -3,3 +3,13 @@ C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.
 C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.AssemblyInfo.cs
 C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.csproj.CoreCompileInputs.cache
 C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.sourcelink.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\bin\Debug\net10.0\coercao.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\bin\Debug\net10.0\coercao.deps.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\bin\Debug\net10.0\coercao.runtimeconfig.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\bin\Debug\net10.0\coercao.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\bin\Debug\net10.0\coercao.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\refint\coercao.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\ref\coercao.dll

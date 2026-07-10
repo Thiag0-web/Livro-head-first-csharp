@@ -1,16 +1,17 @@
-﻿int myInt = 10;
-byte myByte = (byte)myInt;
-double myDouble = (double)myByte;
-bool myBool = (bool)myDouble;
-string myString = "false";
-myBool = (bool)myString;
-myString = (string)myInt;
-myString = myInt.ToString();
-myByte = (bool)myByte;
-myBool = (bool)myBool;
-short myShort = (short)myInt;
-char myChar = 'x';
-myString = (string)myChar;
-long myLong = (long)myInt;
-decimal myDecimal = (decimal)myLong;
-myString = myString + myInt + myByte + myDouble + myChar;
+﻿class Program
+{
+    public static void Main()
+    {
+        static int myMethod(bool add3)
+        {
+            int value = 12;
+
+            if (add3)
+                value += 3;
+            else
+                value -= 2;
+
+            return value;
+        }
+    }
+}
