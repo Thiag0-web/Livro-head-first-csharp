@@ -1,0 +1,5 @@
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\coercao\coercao\obj\Debug\net10.0\coercao.sourcelink.json

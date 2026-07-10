@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.sourcelink.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\bin\Debug\net10.0\temporario.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\bin\Debug\net10.0\temporario.deps.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\bin\Debug\net10.0\temporario.runtimeconfig.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\bin\Debug\net10.0\temporario.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\bin\Debug\net10.0\temporario.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\refint\temporario.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\temporario.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\temporario\temporario\obj\Debug\net10.0\ref\temporario.dll
