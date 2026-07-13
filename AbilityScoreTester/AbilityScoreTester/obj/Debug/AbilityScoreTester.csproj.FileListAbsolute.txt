@@ -1,0 +1,7 @@
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\AbilityScoreTester\AbilityScoreTester\obj\Debug\AbilityScoreTester.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\AbilityScoreTester\AbilityScoreTester\obj\Debug\AbilityScoreTester.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\AbilityScoreTester\AbilityScoreTester\bin\Debug\AbilityScoreTester.exe.config
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\AbilityScoreTester\AbilityScoreTester\bin\Debug\AbilityScoreTester.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\AbilityScoreTester\AbilityScoreTester\bin\Debug\AbilityScoreTester.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\AbilityScoreTester\AbilityScoreTester\obj\Debug\AbilityScoreTester.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\AbilityScoreTester\AbilityScoreTester\obj\Debug\AbilityScoreTester.pdb
