@@ -51,8 +51,6 @@ namespace AbilityScore
                     return lastUsedValue;
                 }
             }
-
-            
         }
     }
 }

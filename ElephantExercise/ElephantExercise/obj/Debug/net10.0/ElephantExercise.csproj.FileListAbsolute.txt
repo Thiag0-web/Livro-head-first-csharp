@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\bin\Debug\net10.0\ElephantExercise.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\bin\Debug\net10.0\ElephantExercise.deps.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\bin\Debug\net10.0\ElephantExercise.runtimeconfig.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\bin\Debug\net10.0\ElephantExercise.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\bin\Debug\net10.0\ElephantExercise.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.sourcelink.json
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\refint\ElephantExercise.dll
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ElephantExercise.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\ElephantExercise\ElephantExercise\obj\Debug\net10.0\ref\ElephantExercise.dll

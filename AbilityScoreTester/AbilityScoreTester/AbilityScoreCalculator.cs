@@ -29,8 +29,6 @@ namespace AbilityScore
             {
                 Score = added;
             }
-            if (0.1 + 0.2 == 0.3) Console.WriteLine("They're equal");
-            else Console.WriteLine("They aren't equal");
         }
     }
 }
