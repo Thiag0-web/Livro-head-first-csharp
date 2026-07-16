@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElephantExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c647a8d8ffe6ecf54455b32629494683f3466bb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1a078e7e66c4499dcb73420f37b5185ee35c6df")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElephantExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElephantExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
