@@ -1,0 +1,7 @@
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\RandomTestDrive\RandomTestDrive\bin\Debug\RandomTestDrive.exe.config
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\RandomTestDrive\RandomTestDrive\bin\Debug\RandomTestDrive.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\RandomTestDrive\RandomTestDrive\bin\Debug\RandomTestDrive.pdb
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\RandomTestDrive\RandomTestDrive\obj\Debug\RandomTestDrive.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\RandomTestDrive\RandomTestDrive\obj\Debug\RandomTestDrive.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\RandomTestDrive\RandomTestDrive\obj\Debug\RandomTestDrive.exe
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\RandomTestDrive\RandomTestDrive\obj\Debug\RandomTestDrive.pdb
