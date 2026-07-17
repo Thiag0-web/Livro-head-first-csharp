@@ -1,0 +1,5 @@
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\SwordDamage\SwordDamage\obj\Debug\net10.0\SwordDamage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\SwordDamage\SwordDamage\obj\Debug\net10.0\SwordDamage.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\SwordDamage\SwordDamage\obj\Debug\net10.0\SwordDamage.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\SwordDamage\SwordDamage\obj\Debug\net10.0\SwordDamage.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Livro-head-first-csharp\SwordDamage\SwordDamage\obj\Debug\net10.0\SwordDamage.sourcelink.json
